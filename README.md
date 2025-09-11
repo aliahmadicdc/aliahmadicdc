@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # Hi there 👋, I'm Ali Ahmadi  
 
 I am passionate about programming and always seeking to **learn and grow** in my career.  
