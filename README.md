@@ -1,9 +1,30 @@
-Hi, I’m ali ahmadi.
-I started working and learning in the field of programming about 15 years ago. My first field of work was designing Android mobile applications, and little by little I started working on designing a variety of static and dynamic websites. I am currently a full stack developer in the field of Android mobile applications and php and Laravel websites. Android Studio and Laravel are my most specialized.
-I’m currently learning Vue.js
+# Hi there 👋, I'm Ali Ahmadi  
 
-email : aliahmadi.tgm@gmail.com
-whatsapp : +989146185910
-instagram : aliahmadi_5910
-linkedin : ali-ahmadi-5910
-telegram : aliahmadi_5910
+💻 I started programming about **15 years ago**.  
+📱 My journey began with **Android mobile applications**, and step by step, I expanded into **designing static and dynamic websites**.  
+
+I am currently working as a **Full Stack Developer**, focusing on:  
+- Android Mobile Applications (Android Studio)  
+- PHP & Laravel Websites  
+- VueJs And NuxtJs  
+
+---
+
+## 🚀 Tech Stack & Tools
+- **Languages & Frameworks:** PHP, Laravel, Vue.js, Java, Kotlin  
+- **Mobile Development:** Android Studio  
+- **Databases:** MySQL, SQLite  
+- **Other Tools:** Git, GitHub, REST API, Postman  
+
+---
+
+## 📬 Contact Me
+- 📧 Email: [aliahmadicdc@gmail.com](mailto:aliahmadicdc@gmail.com)  
+- 💬 WhatsApp: [+98 919 265 0562](https://wa.me/989192650562)  
+- 📷 Instagram: [@citydevelopers.ir](https://instagram.com/citydevelopers.ir)  
+- 💼 LinkedIn: [aliahmadicdc](https://www.linkedin.com/in/aliahmadicdc)  
+- ✈️ Telegram: [@aliahmadicdc](https://t.me/aliahmadicdc)  
+
+---
+
+⭐️ From [Ali Ahmadi](https://github.com/aliahmadicdc)  
