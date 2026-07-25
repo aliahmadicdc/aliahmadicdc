@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](banner.webp)
 
 # Hi there 👋, I'm Ali Ahmadi  
 
@@ -12,7 +12,7 @@ Full-Stack Developer with over 8 years of experience in designing, developing, a
 
 A collection of my featured projects, technical skills, and professional experience in full-stack web development.
 
-🔗 https://[citydevelopers.ir](https://citydevelopers.ir/portfolio/)
+🔗 [citydevelopers.ir](https://citydevelopers.ir/portfolio/)
 
 ---
 
@@ -50,9 +50,9 @@ A collection of my featured projects, technical skills, and professional experie
 
 ## 📊 GitHub Stats
 
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliahmadicdc&show_icons=true&theme=github_dark&hide_border=true)
+![Ali's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=aliahmadicdc&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliahmadicdc&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aliahmadicdc&layout=compact&theme=github_dark&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=aliahmadicdc&theme=github-dark&hide_border=true)
 
